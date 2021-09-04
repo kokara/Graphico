@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "680126886910",
+    "project_id": "graphico-cfdfb",
+    "storage_bucket": "graphico-cfdfb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:680126886910:android:ae541ef66b5aa1735106af",
+        "android_client_info": {
+          "package_name": "com.example.graphico"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "680126886910-2j8hkjku706ivdgbqo87om0h03ao4g07.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEli1fDSZh2BRGlWz4s1TVAT_dzY5eykI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "680126886910-2j8hkjku706ivdgbqo87om0h03ao4g07.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
