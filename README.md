@@ -1,2 +1,2 @@
 # Graphico
-![hello](https://github.com/kokara/Graphico/screenshots/search.jpeg)
+![hello](/screenshots/search.jpeg)
