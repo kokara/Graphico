@@ -9,3 +9,13 @@ To download this application [Click here](https://drive.google.com/file/d/1eopRA
 ### Screenshots
 <p align="center">
 <img src="/screenshots/image.jpeg" alt="image" height="500"  /></p>
+<br>
+<p align="center">
+<img src="/screenshots/video.jpeg" alt="video" height="500"  /></p>
+<br>
+<p align="center">
+<img src="/screenshots/search.jpeg" alt="search" height="500"  /></p>
+<br>
+<p align="center">
+<img src="/screenshots/profile.jpeg" alt="profile" height="500"  /></p>
+
